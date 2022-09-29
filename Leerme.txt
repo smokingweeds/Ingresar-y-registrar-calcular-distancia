@@ -1,0 +1,1 @@
+Use la libreria stdiomask para crear usuario es importante que se abra junto con la carpeta userInfo si no no reconocera los usuarios y tirara error
